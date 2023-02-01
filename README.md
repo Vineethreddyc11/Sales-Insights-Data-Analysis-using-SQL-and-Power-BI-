@@ -17,22 +17,26 @@ Sales director wants to know the performance of the company in various Indian st
 
 # Approach
 
-### 1. Purpose:
+#### 1. Purpose:
 - To unlock sales insights that are not visible before for sales team for decision support & automate them to reduced manual time spent in data gathering.
 
-### 2. Stake Holders:
+#### 2. Stake Holders:
 - Sales Director,
 - I.T. Team,
 - Customer Service Team,
 - Data & Analytics Team.
 
-### 3. End Result: What do we want to achieve?
+#### 3. End Result: What do we want to achieve?
 - An automated dashboard providing quick & latest sales insights in order to support data driven decision making.
 
-### 4. Success Criteria: What will be our success criteria?
+#### 4. Success Criteria: What will be our success criteria?
 - Dashboards uncovering sales order insights with latest data available.
 - Sales team able to take better decision & prove 10% cost savings of total spend.
 - Sales analysts stop data gathering manually in order to save 20% of their business time & reinvest it in value added activity.
+
+# Data Analysis - Approach
+<p  align="center"><a href="https://github.com/mrankitgupta"><img width="80%" src="https://github.com/mrankitgupta/Sales-Insights-Data-Analysis-using-Tableau-and-SQL/blob/main/images/flow.jpg" /></a></p>
+
 
 
 
